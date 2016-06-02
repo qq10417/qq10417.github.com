@@ -1,1 +1,0 @@
-var remote_ip_info = {"ret":1,"start":-1,"end":-1,"country":"\u4e2d\u56fd","province":"\u8fbd\u5b81","city":"\u5927\u8fde","district":"","isp":"","type":"","desc":""};
